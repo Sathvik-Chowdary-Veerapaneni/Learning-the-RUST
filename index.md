@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Blog 1 : Why RUST?
 ---
 
