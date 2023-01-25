@@ -1,4 +1,4 @@
 ---
-title: Blog 1
+title: Blog_1, Why RUST?
 ---
 
