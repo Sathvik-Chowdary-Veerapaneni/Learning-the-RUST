@@ -1,4 +1,4 @@
 ---
-title: Welcome to the blog of RUST programming language
+title: Blog 1
 ---
 
