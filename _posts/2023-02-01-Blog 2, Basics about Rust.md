@@ -5,8 +5,8 @@ date: 2023-02-01
 ---
 # Installing Rust in your OS?
 Depending on the Operating System, the rust has Mac,Linux and Windows versions.
-for Mac and linux go to this website https://www.rust-lang.org/tools/install
-![Rust Install](https://github.com/Sathvik-Chowdary-Veerapaneni/Learning-the-RUST/blob/main/Images/Screenshot%202023-02-01%20at%2011.39.25%20AM.png)
+for Mac and linux go to this website https://www.rust-lang.org/tools/install </br>
+![](https://github.com/Sathvik-Chowdary-Veerapaneni/Learning-the-RUST/blob/main/Images/Screenshot%202023-02-01%20at%2011.39.25%20AM.png)
 copy the code and paste in the terminal to install Rust.
 
 # How to create rust program file ?
