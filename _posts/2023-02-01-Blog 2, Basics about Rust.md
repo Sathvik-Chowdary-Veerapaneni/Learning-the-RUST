@@ -24,13 +24,12 @@ copy the code and paste in the terminal to install Rust.
 # Cargo in Rust
 1. It is a Rust’s build system and package manager.
 2. With this tool, you’ll get a repeatable build because it allows Rust packages to declare their dependencies in **Cargo.toml**.
-3. 
-4. Cargo helps to compile Rust program successfully. It downloads dependencies, compiles your packages, and uploads them to the Rust project registry, **crates.io**.
-5. Cargo is installed by default with rust installation,if not we can install it later.
-6. Check whether it is installed or not by entering the command **cargo** in the terminal.
+3. Cargo helps to compile Rust program successfully. It downloads dependencies, compiles your packages, and uploads them to the Rust project registry, **crates.io**.
+4. Cargo is installed by default with rust installation,if not we can install it later.
+5. Check whether it is installed or not by entering the command **cargo** in the terminal.
    
 ## Example of Rust Program
-Let's start with classic **Hello World**.
+Let's start with classic **[Hello World](https://github.com/Sathvik-Chowdary-Veerapaneni/Learning-the-RUST/blob/main/Code/hello_world.rs)**.
 1. Create a rust file hello_world.rs.
 2. Create the main function with rust syntax.
 3. Write print statement with **println**. 
