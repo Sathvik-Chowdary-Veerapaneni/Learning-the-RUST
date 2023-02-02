@@ -22,5 +22,11 @@ copy the code and paste in the terminal to install Rust.
 5. **./file_name** to execute the rust file
 
 # Cargo in Rust
-1. By default with rust installation you will find the cargo package manager in rust.
-2. You can check whether it is installed or not by simply typing cargo in terminal.
+1. It is a Rust’s build system and package manager.
+2. With this tool, you’ll get a repeatable build because it allows Rust packages to declare their dependencies in **Cargo.toml**.
+3. 
+4. Cargo helps to compile Rust program successfully. It downloads dependencies, compiles your packages, and uploads them to the Rust project registry, **crates.io**.
+5. Cargo is installed by default with rust installation,if not we can install it later.
+6. Check whether it is installed or not by entering the command **cargo** in the terminal.
+   
+## Example of Rust Program
