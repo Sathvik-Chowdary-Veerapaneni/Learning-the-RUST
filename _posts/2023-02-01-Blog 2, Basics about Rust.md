@@ -1,13 +1,17 @@
 ---
-title: "2 : Basics about Rust"
+title: "2 : Basics of Rust"
 layout: post
 date: 2023-02-01
 ---
-# First Install the Rust?
-Depend on the Operating System, the rust need to be installed.
+# Installing Rust in your OS?
+Depending on the Operating System, the rust has Mac,Linux and Windows versions.
 for Mac and linux go to this website https://www.rust-lang.org/tools/install
-# How to create rust files ?
-1. The source code can be written in user choice of IDE, but the rust files should save ends with the extension of '*.rs*', **file_name.rs**.
-2. The file name should not contain any spaces, you can use '_' underscore but no space is allowed between the names.
+copy the code and paste in the terminal to install Rust.
+
+# How to create rust program file ?
+1. The source code can be written in user choice of IDE,the rust file should save '*.rs*' extension, **file_name.rs**.
+2. The file name should not contain any space between the file name, you can use '_' underscore between the names </br>
+   file name.rs not allowed. </br>
+   file_name.rs is allowed. </br>
 
 #How to run a rust file
