@@ -20,3 +20,7 @@ copy the code and paste in the terminal to install Rust.
 3. Compile the rust file using cmd **rustc file_name.rs**
 4. It will create the rust executable file
 5. **./file_name** to execute the rust file
+
+# Cargo in Rust
+1. By default with rust installation you will find the cargo package manager in rust.
+2. You can check whether it is installed or not by simply typing cargo in terminal.
