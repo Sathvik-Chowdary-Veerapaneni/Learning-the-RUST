@@ -30,3 +30,17 @@ copy the code and paste in the terminal to install Rust.
 6. Check whether it is installed or not by entering the command **cargo** in the terminal.
    
 ## Example of Rust Program
+Let's start with classic **Hello World**.
+1. Create a rust file hello_world.rs.
+2. Create the main function with rust syntax.
+3. Write print statement with **println**. 
+4. Save the file.
+5. Open the terminal.
+6. Change the directory to file location.
+7. run with **rustc hello_world.rs**
+8. You will find the executable **hello_world** in the same working directory.
+9. Execute it with **./hello_world**
+10. You will see the output in the terminal **Hello World**
+
+
+It is the basic hello world programming with Rust !.
