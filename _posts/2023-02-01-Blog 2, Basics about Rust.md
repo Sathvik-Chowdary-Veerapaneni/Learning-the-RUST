@@ -14,4 +14,9 @@ copy the code and paste in the terminal to install Rust.
    **file name.rs** not allowed. </br>
    **file_name.rs** is allowed. </br>
 
-#How to run a rust file
+# How to run a rust file ?
+1. Open the terminal
+2. Change the directory to rust file, where it is located
+3. Compile the rust file using cmd **rustc file_name.rs**
+4. It will create the rust executable file
+5. **./file_name** to execute the rust file
