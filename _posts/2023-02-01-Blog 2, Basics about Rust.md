@@ -11,7 +11,7 @@ copy the code and paste in the terminal to install Rust.
 # How to create rust program file ?
 1. The source code can be written in user choice of IDE,the rust file should save '*.rs*' extension, **file_name.rs**.
 2. The file name should not contain any space between the file name, you can use '_' underscore between the names </br>
-   file name.rs not allowed. </br>
-   file_name.rs is allowed. </br>
+   **file name.rs** not allowed. </br>
+   **file_name.rs** is allowed. </br>
 
 #How to run a rust file
