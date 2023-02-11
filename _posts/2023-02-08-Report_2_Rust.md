@@ -24,7 +24,7 @@ You can look the main code **[Here](https://github.com/Sathvik-Chowdary-Veerapan
 # 1. Addig Dependency in Rust
 Similar to other programming languages you can install dependencies from the their source platform. But in rust, while we building cargo project, it creates a file called **cargo.toml** where we can add dependencies over there, we need to add the list of libraries and versions. but here the dependiences were installed from rust git repo.
 
-# 2. magic of "Cargo build"
+# 2. Magic of "Cargo build"
 When we executed the cargo build command, the libraries added in our toml file will be installed according to respective versions from rust offical GitHub repository. If the packages were installed already and you tried again building cargo, the cargo checks the packages with versions if already existed it will skip and will continue rest of the packages. If there is change in version of dependecy it will be updated.
 
 # 3. Declaration of variables and assging values.
