@@ -51,6 +51,8 @@ By importing standard library **io**. we can access the read_line it is an stdin
                  
 # Guessing Game Project 
 
+You can find entire code from **[Here](https://github.com/Sathvik-Chowdary-Veerapaneni/Learning-the-RUST/blob/main/Code/main.rs)**
+
 **Code**
            
 *Importing Libraries* 
@@ -59,24 +61,42 @@ By importing standard library **io**. we can access the read_line it is an stdin
             use std::cmp::Ordering;
             use rand::Rng;
             
-        Starting the main function
+*Starting the main function*
         
             fn main() {
                 println!("Guess the number!");
+                
+*Random number generation between 0 and 50*
+
                 let secret_number = rand::thread_rng().gen_range(1, 51);
                 
-        Starting the Loop 
+*Loop Starts*
       
                 loop {
                     println!("Please input your guess.");
+                    
+*Creating a muttable string as 'guess'*
+
                     let mut guess = String::new();
+                    
+*Input from the user*
+
                     io::stdin().read_line(&mut guess)
                         .expect("Failed to read line");
+                        
+*Matching wether the input is integer or not*
+
                     let guess: u32 = match guess.trim().parse() {
                         Ok(num) => num,
                         Err(_) => continue,
                     };
+                    
+*Matching by Compare*
+   
                     println!("You guessed: {}", guess);
+                    
+*Returning wether the guessed number is high or low and same*
+
                     match guess.cmp(&secret_number) {
                         Ordering::Less => println!("Too small!"),
                         Ordering::Greater => println!("Too big!"),
