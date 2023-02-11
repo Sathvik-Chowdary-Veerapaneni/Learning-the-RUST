@@ -3,8 +3,6 @@ title: "3 : Learn rust by doing "
 layout: post
 date: 2023-02-08
 ---
-# Draft of Blog 3
-
 # Learn rust by doing
 The best way to learn a programming language is by doing implementing the learning objects by building mini projects and practicing it various times. Understanding of code How it working is an important step.
 
