@@ -1,5 +1,5 @@
 ---
-title: "3 : Learn rust by doing "
+title: "2 : Learn rust by doing "
 layout: post
 date: 2023-02-08
 ---
