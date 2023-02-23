@@ -1,5 +1,5 @@
 ---
-title: "2 : Basics of Rust"
+title: "1 : Basics of Rust"
 layout: post
 date: 2023-02-01
 ---
