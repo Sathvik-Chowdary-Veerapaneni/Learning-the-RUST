@@ -1,5 +1,5 @@
 ---
-title: "5 : Main Reflection"
+title: "Main Reflection"
 layout: post
 date: 2023-02-28
 ---
